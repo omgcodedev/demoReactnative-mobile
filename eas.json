@@ -1,0 +1,13 @@
+{
+  "build": {
+    "preview": {
+      "env": {
+        "API_BASE_URL": "https://mindful-primer-377708.ue.r.appspot.com"
+      },
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {}
+  }
+}
